@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FindMyWay</string>
+    <string name="access_token">sk.eyJ1IjoibmFzaHlsbCIsImEiOiJja2RvcjljaHAwajlpMnRxb2Q4aW52NHRmIn0.j3IfsfP_xCTa2BK_yTmjRw</string>
+    <string name="start_navigating">Start Navigating</string>
+</resources>
